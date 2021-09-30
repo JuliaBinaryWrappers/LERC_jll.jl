@@ -1,0 +1,236 @@
+[[LERC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "45a216ae4205718229256603683ffd660cc41e95"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "6a0fb201284660fb859cb09048de91ed701a5b44c0f117fdc81e6e56733f2ec6"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LERC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1322a66c146bff31923d2bf15a4ae83ad12ad05"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "7c75a1087aa4dfd4e33051b6af078a21b6fae8656ecb334a95f70df5d5083471"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LERC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23a0e97eccdc1e64f61849febd564537ddb75f9e"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "9135ae279447610683b9af487b648a6db0b89536ecce3902cc357a2b52b2a393"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LERC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9bda68770c258741c3a0cbd8e4c7d87af2ce0913"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "160b14035170f6e8a0159365ea111e3edd467cfa7278abe6b08de0af0430d6f2"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LERC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e540c4dddc663a14d2a6e6d9d0ae792c986dafd"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "ce449166ed482d7f42550dd04db01db74bebc094818cca8525d1b37a8e9c59d9"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LERC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6e16f887b986b14ccc34d2d73938dacd3e12460a"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "a306a4adb7fa5ec4458b1514b5fdbbb59deebcebfe14bf4580cc76f8e7a4c710"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LERC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d880fabe3bcfbf51656a8898b797d1785fd2977c"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "7d9ffd873b3c4120e7445b3ca6872e91fbddc0f09889186938541ba97a095b66"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LERC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0cbda43075b464508beaf766ee1989ca7e47024e"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "e82ef0feadd241cd2d558481fb5939b500ff3d4a0fb6a488cf97165904ca243a"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LERC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c79abca52c53b446f58bc8125cdda63915a35c96"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "dae5ebbac8ff189ed65d5cfc12c964b452c9195d67b14948090d50f7333da68c"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[LERC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "423e55b97c9ee5098d8435d5eab62f4c5517c63b"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "cba149dd0581bea4bd54b1d935edbedec8b3e2992500b77ec03790f1f6c0a8e0"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[LERC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b5b6b048f9dde7c1f2ccc0e989bc7ade5ade882e"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "5ff2e75585ff697617254e2fcf39bf0f59c8fe1a39eb5936c39fbc857c65631a"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.i686-linux-musl-cxx03.tar.gz"
+[[LERC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "82304fc22d52fd871ccd39586c8212d9bfa400f4"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "859af54a6702f7ec942ab80cee0bc502f5f5226725db5fe25afb96e595d2486c"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.i686-linux-musl-cxx11.tar.gz"
+[[LERC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5599c038b41daa849a74165857018600387b81e9"
+os = "windows"
+
+    [[LERC.download]]
+    sha256 = "ae4cf73afae82288e101fbc22e136607b0b81e56b6269fca8d444c5b2d70ca5f"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LERC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f2ee8e43958c59da45387863299f421b7ed7aa3"
+os = "windows"
+
+    [[LERC.download]]
+    sha256 = "f03abe6cff700156b455dfe454d529bed7731f0dce1f2de20526af2c06c6ab4b"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LERC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a10f47c20a67879842d0edc1cabc9d201d1c5b49"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "0dcc390cd13ecef1462ca3efcc6290ebd76e336a285aa35f071abf7764180bb9"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LERC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "831cff547115738e07dfe5a325661815139d3e4d"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "911ac480727c4a1c91384ff206508cfc15341ddf28c16ba7912c05ce64838ab7"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LERC]]
+arch = "x86_64"
+git-tree-sha1 = "39b70594620f0d90e81b31d46d6b3dfaa1092f8f"
+os = "macos"
+
+    [[LERC.download]]
+    sha256 = "86e77f1326b93d24ebe0594d53046217aa553ea5920646eabc56dd7a84d08faa"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-apple-darwin.tar.gz"
+[[LERC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e8fc6bd35c69de2526ee100aa4b98d36bf473c3"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "9fb9229c55153b7e675cb95c603ecf5579d2856b0a13a9892ba5babc9f19b878"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LERC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90b523515a1216d6269b8d3d6a8d7cd91e845b40"
+libc = "glibc"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "961195a533279c3c14d0bfc11e30bb79c2f4134cc79dad409b26c9666e08940c"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LERC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ef9eeaa17c6fc96246f1a4cac445ea3299fd0a1"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "6cd6351d55d815f0683b8bd973938821ea2cefcce9a9858f73cec0b4e6fd4634"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LERC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9be1ff18a9a77ec0185b82d267a8fd19791dac05"
+libc = "musl"
+os = "linux"
+
+    [[LERC.download]]
+    sha256 = "74f558b9082f3df8171a4f6bff8e77bb57fdedfdb0a7f1407bf1bde14c06e327"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LERC]]
+arch = "x86_64"
+git-tree-sha1 = "1d444c0ceb031ab6974292b66f7508970e30b5e2"
+os = "freebsd"
+
+    [[LERC.download]]
+    sha256 = "978ff208fbc7e97e378e79123af498a97244ab43e0250e6ef1c19ff9364754eb"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-unknown-freebsd.tar.gz"
+[[LERC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8635f5702b1b11fb5f355fda4df69e0ee9cb6bcd"
+os = "windows"
+
+    [[LERC.download]]
+    sha256 = "3d7154f7ac72d085aefb3ad43ec6cdb579fc517c4cf59895bf1685072a25a338"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LERC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9614d8518669c4f2b790b54a7dddd7a9fd5cf399"
+os = "windows"
+
+    [[LERC.download]]
+    sha256 = "9f479d690a224b31dfbeef42d3b7066295b7d3513d98b5816a604db54b351a4e"
+    url = "https://github.com/JuliaBinaryWrappers/LERC_jll.jl/releases/download/LERC-v3.0.0+0/LERC.v3.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
